@@ -1,13 +1,14 @@
 //
 //  AppDelegate.swift
-//  TodoListApp
+//  TodoList
 //
-//  Created by hyeonseok on 2021/11/11.
+//  Created by joonwon lee on 2020/03/19.
+//  Copyright © 2020 com.joonwon. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
